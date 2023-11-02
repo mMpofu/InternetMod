@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InternetMod</string>
+    <string name="enter_website_to_block">block website</string>
+    <string name="enter_app_package_name_to_block">block app</string>
+    <string name="save_preferences">save</string>
+</resources>
